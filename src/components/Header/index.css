@@ -1,0 +1,44 @@
+
+
+.brand-name{
+    color: #e3e8e8;
+    font-weight: light;
+}
+
+.menu-bar-main-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+align-items:center;}
+
+.menu-bar-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    width: 400px;
+}
+
+.header-icons-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100px;
+}
+
+.header-main-container{
+    color: #e3e8e8;
+}
+
+.header-and-search-logos-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.header-and-search-logos-container{
+    padding: 30px;
+}

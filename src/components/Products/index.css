@@ -1,0 +1,97 @@
+
+
+/* .card-bg-container{
+    background-image: url("components/src/public/maskedGroup1.png");
+} */
+
+.products-container{
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.book-mark-container{
+    padding: 7px;
+}
+
+
+.product-image-and-book-mark-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-start;
+}
+
+.rupeeSign-and-discount-price-shopping-bag-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.plus-sign-text{
+    font-size: 2px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+    height: 5px;
+    width: 5px;
+}
+
+.shopping-bag-main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.bottom-part-cards{
+    margin-top: 50px;
+    margin-bottom: 220px;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.top-part-cards{
+    margin-bottom: 50px;
+    margin-top: 20px;
+    padding: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items:center;
+}
+
+.metro-movers-text{
+    width: 200px;
+}
+
+.card-main-container{
+    height: 280px;
+}
+
+
+.bags-and-back-pack-and-products-count-send-icon-main-container{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    align-items: center;
+    padding: 15px;
+}
+
+.product-count-and-send-icon-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 120px;
+}
